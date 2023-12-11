@@ -1,0 +1,10 @@
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\sugan\Desktop\C#\C#_Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
